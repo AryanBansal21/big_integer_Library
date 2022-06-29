@@ -38,6 +38,8 @@
   * Now we can use all of the above features for Big integers.
   
     * Declarations and Initializations ->
+    ![image](https://user-images.githubusercontent.com/79042363/176439221-cb34c022-149e-46bf-8504-79ce272d772d.png)
+
      
      
     
