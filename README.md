@@ -10,11 +10,12 @@
 
 
 ## Math Functions-
-  
- 1)Factorial(n)
- 2)Gcd(a,b)
- 3)Lcm(a,b)
- 4)Pow(x,n)
+ 
+ 1) Factorial(n)
+ 2) Gcd(a,b)
+ 3) Lcm(a,b)
+ 4) Pow(x,n)
+ 
  
 ## How to use -
 
