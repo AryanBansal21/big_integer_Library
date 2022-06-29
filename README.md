@@ -37,8 +37,19 @@
 
   * Now we can use all of the above features for Big integers.
   
-    * Declarations and Initializations ->
+    ## Declarations and Initializations ->
+    
     ![image](https://user-images.githubusercontent.com/79042363/176439221-cb34c022-149e-46bf-8504-79ce272d772d.png)
+    
+    ## Arithmetic Operations ->
+    
+    ![image](https://user-images.githubusercontent.com/79042363/176439965-1570f369-33c5-4b21-9e9a-03324934fee4.png)
+    
+    ## Math Functions ->
+    
+    ![image](https://user-images.githubusercontent.com/79042363/176440438-1c042aa9-5e3c-436e-ba07-c85877cc0a3d.png)
+
+
 
      
      
