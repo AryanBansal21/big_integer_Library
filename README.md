@@ -30,7 +30,7 @@
      
      * Just you wanna add these two lines at the start of your file.
      
-       * #include "bigint.h" OR #include <bigint.h>
+       * #include "bigint.h" 
        * using namespace MathFunctions
     
 * Step 2
